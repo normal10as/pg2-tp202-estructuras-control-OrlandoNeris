@@ -19,14 +19,6 @@
 
     Sub main()
 
-        Dim meses = New Meses
-
-        Loop While 
-
-        Console.WriteLine()
-
-
-
 
 
     End Sub
