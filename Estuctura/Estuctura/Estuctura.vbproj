@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F3CDAFD8-2051-4A9E-8E26-BEBBD310B8D2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estuctura._2_11</StartupObject>
+    <StartupObject>Estuctura._2_8</StartupObject>
     <RootNamespace>Estuctura</RootNamespace>
     <AssemblyName>Estuctura</AssemblyName>
     <FileAlignment>512</FileAlignment>
